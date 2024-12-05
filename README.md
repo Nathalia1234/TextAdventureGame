@@ -1,4 +1,6 @@
-# Joginho Massa: AI Text Adventure Game
+🎮 TextAdventureGame
+
+Descubra aventuras imersivas onde suas escolhas definem o destino!
 
 O projeto a seguir se trata de uma plataforma de narração interativa e jogo que utiliza inteligência artificial a partir da API da OpenAI para criar aventuras baseadas em texto. Os jogadores podem criar, explorar e interagir com mundos e histórias fictícias moldadas inteiramente por suas entradas e pelas respostas da IA a partir do processamento de linguagem natural para gerar narrativas dinâmicas e imprevisíveis.
 
